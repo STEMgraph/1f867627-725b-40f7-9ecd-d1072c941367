@@ -1,6 +1,7 @@
 <!---
 {
   "id": "1f867627-725b-40f7-9ecd-d1072c941367",
+  "teaches": "Introduction to HTML Anchor Elements",
   "depends_on": ["3ee0acd9-0f99-4423-b4f3-a0ca84a16422"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-13",
